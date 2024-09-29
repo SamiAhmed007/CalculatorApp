@@ -113,7 +113,7 @@ Contributions are welcome! If you'd like to contribute, feel free to open a pull
 3. **Create a New GitHub Repository: Go to GitHub and create a new repository. You can name it something like**
 4. **Add Remote Repository**: Link your local repository to the GitHub repository:
    ```bash
-   git remote add origin https://github.com/SamiAhmed007/CalculatorApp.git
+   git remote add origin https://github.com/your-username/flutter_calculator.git
 5. **Push Your Code to GitHub**: Push the code to the main branch:
    ```bash
    git push -u origin master
